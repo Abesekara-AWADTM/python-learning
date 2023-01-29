@@ -1,1 +1,2 @@
 print("thilini")
+print("hai")
