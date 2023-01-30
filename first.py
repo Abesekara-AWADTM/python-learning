@@ -24,3 +24,7 @@ print(type(age))
 
 weight=70.0
 print(type(weight))
+
+# dir()
+
+print(dir(name))
