@@ -12,4 +12,12 @@ if 5>2:
 
 # Escape Characters
 
-print("Thilini is \"final \" year student.")
+print("Thilini is \"final \" year student. \n She is live in Gampaha. Her dog is pupy.\t It\'s very beautuful")
+C
+# python is loose type of programming- that means not need to indicate variable type
+
+name="Thilini"
+print(type(name))
+
+age=67
+weight=70.0
