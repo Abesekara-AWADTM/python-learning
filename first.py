@@ -25,6 +25,13 @@ print(type(age))
 weight=70.0
 print(type(weight))
 
+
+Thilini,Nipun,Sadun=20,67,78
+print(Thilini)
+
+Sara = bob = Mike = 17
+print(Sara)
+
 # dir()
 
 print(dir(name))
