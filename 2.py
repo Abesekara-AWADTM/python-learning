@@ -18,3 +18,5 @@ print(Sentence4.index("I"))  #  python index start with 0
 print(Sentence4.index("l")) # calculate spaces also
 
 
+
+
