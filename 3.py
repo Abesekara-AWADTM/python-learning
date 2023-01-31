@@ -5,6 +5,10 @@ from math import*    # import all math functions
 #min function
 #pow function
 #abs function absolute function
+#sqrt()
+#ceil()
+#floor()
+#factorial()
 
 
 print(10 +10)
@@ -22,3 +26,7 @@ print(pow(5,2))
 
 print(-3.0*2)
 print(abs(-3.0*2))
+
+print(sqrt(9))
+
+print(factorial(3))
