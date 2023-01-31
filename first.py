@@ -16,7 +16,8 @@ print("Thilini is \"final \" year student. \n She is live in Gampaha. Her dog is
 
 # python is loose type of programming- that means not need to indicate variable type
 
-name="Thilini"
+name="Thilini" 
+
 print(type(name))
 
 age=67
@@ -32,6 +33,17 @@ print(Thilini)
 Sara = bob = Mike = 17
 print(Sara)
 
+print("hello"+ "Thilini")
+print('I am'  + name+' Madushani')
+
+
+having_house=False
+if having_house:
+    print("I own")
+else:
+    print("I not")
+
 # dir()
 
 print(dir(name))
+
