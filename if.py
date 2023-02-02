@@ -8,3 +8,8 @@ else:
     print("Not hungry")
 
     print("Thilini")
+    print("Thilini") 
+    print("Thilini") 
+    print("Thilini")  
+    print("Thilini") 
+    print("Thilini")
