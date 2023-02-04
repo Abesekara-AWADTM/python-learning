@@ -10,6 +10,4 @@ else:
     print("Thilini")
     print("Thilini") 
     print("Thilini") 
-    print("Thilini")  
-    print("Thilini") 
-    print("Thilini")
+  
