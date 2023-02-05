@@ -7,7 +7,5 @@ if I_want_to_eat:
 else:
     print("Not hungry")
 
-    print("Thilini")
-    print("Thilini") 
-    print("Thilini") 
+   
   
